@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1500&pause=200&color=12A5FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=65&lines=Hi,+I%E2%80%99m+Taylor;Building+thoughtful+software" alt="Typing SVG" />
+<br><br>
+<pre>
+    📖 BComp @ UofG - Honours Co-op Software Engineerin
+    💻 Java • C • Python • HTML & CSS • Dart 
+    💼 Currently working on Caeli Weather application
+    🎮 Music • Games • Anime • Code • Journaling
+</pre>
+<br>
+<!-- Insert gif here -->
+<br><br>
 
-<!--
-**wymestm/wymestm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Insert links here -->
+</div>
