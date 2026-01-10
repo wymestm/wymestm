@@ -8,10 +8,15 @@
     🎮 Music • Games • Anime • Code • Journaling
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/wymestm/wymestm/main/assets/nezuko-gif.gif" height="75"/>
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/wymestm/wymestm/main/assets/nezuko-gif.gif" alt="Nezuko running gif" style="width:25%">
+  </div>
+  <div class="column">
+    <a href="http://www.linkedin.com/in/taylor-wymes-23tw">
+      <img src="https://raw.githubusercontent.com/wymestm/wymestm/main/assets/LinkedIn_icon_circle.svg.png"     width="30" alt="LinkedIn" style="width:25%">
+    </a>
+  </div>
+</div>
 <br><br>
-
-<a href="http://www.linkedin.com/in/taylor-wymes-23tw">
-  <img src="https://raw.githubusercontent.com/wymestm/wymestm/main/assets/LinkedIn_icon_circle.svg.png" width="30" alt="LinkedIn"/>
-</a>
 </div>
