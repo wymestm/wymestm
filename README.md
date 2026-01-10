@@ -15,3 +15,4 @@
 <br>
 <img src="https://raw.githubusercontent.com/wymestm/wymestm/main/assets/MaoMao-banner.jpg" alt="MaoMao Banner image">
 </div>
+<p>Inspired by: <a href="https://github.com/innng/innng.git">inng's README</a></p>
