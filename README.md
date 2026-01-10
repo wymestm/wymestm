@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1500&pause=200&color=12A5FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=65&lines=Hi,+I%E2%80%99m+Taylor;Building+thoughtful+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1500&pause=200&color=12A5FF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=65&lines=Hi,+I%E2%80%99m+Taylor;Building+thoughtful+software" alt="Typing SVG"/>
 <br><br>
 <pre>
     📖 BComp @ UofG - Honours Co-op Software Engineerin
@@ -8,7 +8,7 @@
     🎮 Music • Games • Anime • Code • Journaling
 </pre>
 <br>
-<!-- Insert gif here -->
+<img src="https://raw.githubusercontent.com/wymestm/wymestm/main/assets/nezuko-gif.gif" height="75"/>
 <br><br>
 
 <!-- Insert links here -->
