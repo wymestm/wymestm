@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=1500&pause=200&color=CC7B97&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=55&lines=Hi,+I%E2%80%99m+Taylor;Building+thoughtful+software" alt="Typing SVG"/>
 <br><br>
 <pre>
-    📖 BComp @ UofG - Honours Co-op Software Engineerin
+    📖 BComp @ UofG - Honours Co-op Software Engineering
     💻 Java • C • Python • HTML & CSS • Dart 
     💼 Currently working on Caeli Weather application
     🎮 Music • Games • Anime • Code • Journaling
