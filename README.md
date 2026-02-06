@@ -8,7 +8,7 @@
     🎮 Music • Games • Anime • Code • Journaling
 </pre>
 <div>
-<a href="http://www.linkedin.com/in/taylor-wymes-23tw">
+<a href="http://www.linkedin.com/in/taylor-wymes">
 <img src="https://raw.githubusercontent.com/wymestm/wymestm/main/assets/LinkedIn_icon_circle.svg.png"     width="30" alt="LinkedIn" style="height:25%">
 </a>
 </div>
